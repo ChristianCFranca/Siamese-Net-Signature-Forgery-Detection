@@ -12,7 +12,7 @@ Following this logic, you shall find in my notebook `SiameseNetwork.ipynb` a imp
 
 The Loss function in this case shall be a distance-based function. The one selected was the `Constrastive Loss` or `Pairwise Ranking Loss`. Many are available for this field of problems and widely used like the `Triplet Loss`. The `Contrastive Loss` is a simpler approach.
 
-The training of the modified architecture took about 1 hours to complete, yelding pretty good results for the loss function selected.
+The training of the modified architecture took about 1 hour to complete, yelding pretty good results for the loss function selected.
 
 ![alt text](https://github.com/ChristianCFranca/Siamese-Net-Signature-Forgery-Detection/blob/main/images/Training%20Loop.PNG?raw=true)
 ![alt text](https://github.com/ChristianCFranca/Siamese-Net-Signature-Forgery-Detection/blob/main/images/graphs.PNG?raw=true)
